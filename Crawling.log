@@ -1,0 +1,208 @@
+2023-11-06 21:34:45 INFO : Browser listening on: ws://127.0.0.1:5763/devtools/browser/13a24a03-14ff-47d4-98d2-cb0bf3083943
+2023-11-06 21:34:50 ERROR : Future exception was never retrieved
+future: <Future finished exception=NetworkError('Protocol error (Target.sendMessageToTarget): No session with given id')>
+pyppeteer.errors.NetworkError: Protocol error (Target.sendMessageToTarget): No session with given id
+2023-11-06 21:34:50 ERROR : Future exception was never retrieved
+future: <Future finished exception=NetworkError('Protocol error (Target.sendMessageToTarget): No session with given id')>
+pyppeteer.errors.NetworkError: Protocol error (Target.sendMessageToTarget): No session with given id
+2023-11-06 21:34:50 ERROR : Future exception was never retrieved
+future: <Future finished exception=NetworkError('Protocol error (Target.sendMessageToTarget): No session with given id')>
+pyppeteer.errors.NetworkError: Protocol error (Target.sendMessageToTarget): No session with given id
+2023-11-06 21:34:50 ERROR : Future exception was never retrieved
+future: <Future finished exception=NetworkError('Protocol error (Target.sendMessageToTarget): No session with given id')>
+pyppeteer.errors.NetworkError: Protocol error (Target.sendMessageToTarget): No session with given id
+2023-11-06 21:34:50 ERROR : Future exception was never retrieved
+future: <Future finished exception=NetworkError('Protocol error (Target.sendMessageToTarget): No session with given id')>
+pyppeteer.errors.NetworkError: Protocol error (Target.sendMessageToTarget): No session with given id
+2023-11-06 21:34:50 ERROR : Future exception was never retrieved
+future: <Future finished exception=NetworkError('Protocol error (Target.sendMessageToTarget): No session with given id')>
+pyppeteer.errors.NetworkError: Protocol error (Target.sendMessageToTarget): No session with given id
+2023-11-06 21:34:50 ERROR : Future exception was never retrieved
+future: <Future finished exception=NetworkError('Protocol error (Target.sendMessageToTarget): No session with given id')>
+pyppeteer.errors.NetworkError: Protocol error (Target.sendMessageToTarget): No session with given id
+2023-11-06 21:34:50 ERROR : Future exception was never retrieved
+future: <Future finished exception=NetworkError('Protocol error (Target.sendMessageToTarget): No session with given id')>
+pyppeteer.errors.NetworkError: Protocol error (Target.sendMessageToTarget): No session with given id
+2023-11-06 21:34:50 ERROR : Future exception was never retrieved
+future: <Future finished exception=NetworkError('Protocol error (Target.sendMessageToTarget): No session with given id')>
+pyppeteer.errors.NetworkError: Protocol error (Target.sendMessageToTarget): No session with given id
+2023-11-06 21:34:59 INFO : 下拉第 1 次
+2023-11-06 21:35:01 INFO : 下拉第 2 次
+2023-11-06 21:35:04 INFO : 下拉第 3 次
+2023-11-06 21:35:07 INFO : 下拉第 4 次
+2023-11-06 21:35:11 INFO : 下拉第 5 次
+2023-11-06 21:35:15 INFO : 下拉第 6 次
+2023-11-06 21:35:15 INFO : 下拉达到第 6 次
+2023-11-06 21:37:23 INFO : Browser listening on: ws://127.0.0.1:6791/devtools/browser/ba875fb3-00dc-4dd6-bef2-a1e42f4d81bf
+2023-11-06 21:37:26 INFO : 完成 query = '大模型' 的搜索
+2023-11-06 21:37:27 ERROR : Future exception was never retrieved
+future: <Future finished exception=NetworkError('Protocol error (Target.sendMessageToTarget): No session with given id')>
+pyppeteer.errors.NetworkError: Protocol error (Target.sendMessageToTarget): No session with given id
+2023-11-06 21:37:27 ERROR : Future exception was never retrieved
+future: <Future finished exception=NetworkError('Protocol error (Target.sendMessageToTarget): No session with given id')>
+pyppeteer.errors.NetworkError: Protocol error (Target.sendMessageToTarget): No session with given id
+2023-11-06 21:37:27 ERROR : Future exception was never retrieved
+future: <Future finished exception=NetworkError('Protocol error (Target.sendMessageToTarget): No session with given id')>
+pyppeteer.errors.NetworkError: Protocol error (Target.sendMessageToTarget): No session with given id
+2023-11-06 21:37:27 ERROR : Future exception was never retrieved
+future: <Future finished exception=NetworkError('Protocol error (Target.sendMessageToTarget): No session with given id')>
+pyppeteer.errors.NetworkError: Protocol error (Target.sendMessageToTarget): No session with given id
+2023-11-06 21:37:36 INFO : 下拉第 1 次
+2023-11-06 21:37:38 INFO : 下拉第 2 次
+2023-11-06 21:37:40 INFO : 下拉第 3 次
+2023-11-06 21:37:44 INFO : 下拉第 4 次
+2023-11-06 21:37:48 INFO : 下拉第 5 次
+2023-11-06 21:37:50 INFO : 下拉第 6 次
+2023-11-06 21:37:50 INFO : 下拉达到第 6 次
+2023-11-06 22:00:18 INFO : Browser listening on: ws://127.0.0.1:7353/devtools/browser/4a83448c-3bf7-4565-84fe-1721e9d4249c
+2023-11-06 22:04:28 INFO : Browser listening on: ws://127.0.0.1:8758/devtools/browser/081505b2-59b3-410a-b4e4-eb78cb6488d1
+2023-11-06 22:04:37 INFO : 完成 query = '考公' 的搜索
+2023-11-06 22:04:45 INFO : 下拉第 1 次
+2023-11-06 22:04:47 INFO : 下拉第 2 次
+2023-11-06 22:04:51 INFO : 下拉第 3 次
+2023-11-06 22:04:54 INFO : 下拉第 4 次
+2023-11-06 22:04:58 INFO : 下拉第 5 次
+2023-11-06 22:05:03 INFO : 下拉第 6 次
+2023-11-06 22:05:03 INFO : 下拉达到第 6 次
+2023-11-06 22:05:25 INFO : 完成 query = '华为' 的搜索
+2023-11-06 22:05:33 INFO : 下拉第 1 次
+2023-11-06 22:16:03 INFO : Browser listening on: ws://127.0.0.1:13245/devtools/browser/bcc511fe-ba3b-4610-b687-f1c54d4b4bbd
+2023-11-06 22:16:12 INFO : 完成 query = '华为' 的搜索
+2023-11-06 22:16:20 INFO : 下拉第 1 次
+2023-11-06 22:16:23 INFO : 下拉第 2 次
+2023-11-06 22:16:26 INFO : 下拉第 3 次
+2023-11-06 22:16:30 INFO : 下拉第 4 次
+2023-11-06 22:16:34 INFO : 下拉第 5 次
+2023-11-06 22:16:37 INFO : 下拉第 6 次
+2023-11-06 22:16:41 INFO : 下拉第 7 次
+2023-11-06 22:16:45 INFO : 下拉第 8 次
+2023-11-06 22:16:47 INFO : 下拉第 9 次
+2023-11-06 22:16:50 INFO : 下拉第 10 次
+2023-11-06 22:16:52 INFO : 下拉第 11 次
+2023-11-06 22:16:55 INFO : 下拉第 12 次
+2023-11-06 22:16:57 INFO : 下拉第 13 次
+2023-11-06 22:16:59 INFO : 下拉第 14 次
+2023-11-06 22:17:02 INFO : 下拉第 15 次
+2023-11-06 22:17:05 INFO : 下拉第 16 次
+2023-11-06 22:17:08 INFO : 下拉第 17 次
+2023-11-06 22:17:11 INFO : 下拉第 18 次
+2023-11-06 22:17:15 INFO : 下拉第 19 次
+2023-11-06 22:17:19 INFO : 下拉第 20 次
+2023-11-06 22:17:22 INFO : 下拉第 21 次
+2023-11-06 22:17:22 INFO : 下拉达到第 21 次
+2023-11-06 22:17:45 INFO : 完成 query = '台湾' 的搜索
+2023-11-06 22:17:54 INFO : 下拉第 1 次
+2023-11-06 22:17:57 INFO : 下拉第 2 次
+2023-11-06 22:18:01 INFO : 下拉第 3 次
+2023-11-06 22:18:04 INFO : 下拉第 4 次
+2023-11-06 22:18:09 INFO : 下拉第 5 次
+2023-11-06 22:18:11 INFO : 下拉第 6 次
+2023-11-06 22:18:13 INFO : 下拉第 7 次
+2023-11-06 22:18:17 INFO : 下拉第 8 次
+2023-11-06 22:18:20 INFO : 下拉第 9 次
+2023-11-06 22:18:25 INFO : 下拉第 10 次
+2023-11-06 22:18:27 INFO : 下拉第 11 次
+2023-11-06 22:18:29 INFO : 下拉第 12 次
+2023-11-06 22:18:31 INFO : 下拉第 13 次
+2023-11-06 22:18:33 INFO : 下拉第 14 次
+2023-11-06 22:18:35 INFO : 下拉第 15 次
+2023-11-06 22:18:38 INFO : 下拉第 16 次
+2023-11-06 22:18:41 INFO : 下拉第 17 次
+2023-11-06 22:18:45 INFO : 下拉第 18 次
+2023-11-06 22:18:49 INFO : 下拉第 19 次
+2023-11-06 22:18:52 INFO : 下拉第 20 次
+2023-11-06 22:18:54 INFO : 下拉第 21 次
+2023-11-06 22:18:54 INFO : 下拉达到第 21 次
+2023-11-06 22:19:16 INFO : 完成 query = '就业' 的搜索
+2023-11-06 22:19:24 INFO : 下拉第 1 次
+2023-11-06 22:19:26 INFO : 下拉第 2 次
+2023-11-06 22:19:30 INFO : 下拉第 3 次
+2023-11-06 22:19:34 INFO : 下拉第 4 次
+2023-11-06 22:19:38 INFO : 下拉第 5 次
+2023-11-06 22:19:42 INFO : 下拉第 6 次
+2023-11-06 22:19:46 INFO : 下拉第 7 次
+2023-11-06 22:19:50 INFO : 下拉第 8 次
+2023-11-06 22:19:54 INFO : 下拉第 9 次
+2023-11-06 22:19:56 INFO : 下拉第 10 次
+2023-11-06 22:19:59 INFO : 下拉第 11 次
+2023-11-06 22:20:01 INFO : 下拉第 12 次
+2023-11-06 22:20:04 INFO : 下拉第 13 次
+2023-11-06 22:20:08 INFO : 下拉第 14 次
+2023-11-06 22:20:11 INFO : 下拉第 15 次
+2023-11-06 22:20:13 INFO : 下拉第 16 次
+2023-11-06 22:20:17 INFO : 下拉第 17 次
+2023-11-06 22:20:19 INFO : 下拉第 18 次
+2023-11-06 22:20:23 INFO : 下拉第 19 次
+2023-11-06 22:20:27 INFO : 下拉第 20 次
+2023-11-06 22:20:31 INFO : 下拉第 21 次
+2023-11-06 22:20:31 INFO : 下拉达到第 21 次
+2023-11-06 22:20:56 INFO : 完成 query = '腾讯' 的搜索
+2023-11-06 22:21:05 INFO : 下拉第 1 次
+2023-11-06 22:21:09 INFO : 下拉第 2 次
+2023-11-06 22:21:13 INFO : 下拉第 3 次
+2023-11-06 22:21:16 INFO : 下拉第 4 次
+2023-11-06 22:21:18 INFO : 下拉第 5 次
+2023-11-06 22:21:20 INFO : 下拉第 6 次
+2023-11-06 22:21:24 INFO : 下拉第 7 次
+2023-11-06 22:21:26 INFO : 下拉第 8 次
+2023-11-06 22:21:28 INFO : 下拉第 9 次
+2023-11-06 22:21:33 INFO : 下拉第 10 次
+2023-11-06 22:21:35 INFO : 下拉第 11 次
+2023-11-06 22:21:37 INFO : 下拉第 12 次
+2023-11-06 22:21:40 INFO : 下拉第 13 次
+2023-11-06 22:21:42 INFO : 下拉第 14 次
+2023-11-06 22:21:46 INFO : 下拉第 15 次
+2023-11-06 22:21:48 INFO : 下拉第 16 次
+2023-11-06 22:21:51 INFO : 下拉第 17 次
+2023-11-06 22:21:54 INFO : 下拉第 18 次
+2023-11-06 22:21:56 INFO : 下拉第 19 次
+2023-11-06 22:21:58 INFO : 下拉第 20 次
+2023-11-06 22:22:01 INFO : 下拉第 21 次
+2023-11-06 22:22:01 INFO : 下拉达到第 21 次
+2023-11-06 22:22:25 INFO : 完成 query = '王伟恒' 的搜索
+2023-11-06 22:22:34 INFO : 下拉第 1 次
+2023-11-06 22:22:38 INFO : 下拉第 2 次
+2023-11-06 22:22:41 INFO : 下拉第 3 次
+2023-11-06 22:22:43 INFO : 下拉第 4 次
+2023-11-06 22:22:46 INFO : 下拉第 5 次
+2023-11-06 22:22:51 INFO : 下拉第 6 次
+2023-11-06 22:22:53 INFO : 下拉第 7 次
+2023-11-06 22:22:55 INFO : 下拉第 8 次
+2023-11-06 22:22:59 INFO : 下拉第 9 次
+2023-11-06 22:23:02 INFO : 下拉第 10 次
+2023-11-06 22:23:06 INFO : 下拉第 11 次
+2023-11-06 22:23:10 INFO : 下拉第 12 次
+2023-11-06 22:23:13 INFO : 下拉第 13 次
+2023-11-06 22:23:16 INFO : 下拉第 14 次
+2023-11-06 22:23:18 INFO : 下拉第 15 次
+2023-11-06 22:23:22 INFO : 下拉第 16 次
+2023-11-06 22:23:25 INFO : 下拉第 17 次
+2023-11-06 22:23:27 INFO : 下拉第 18 次
+2023-11-06 22:23:31 INFO : 下拉第 19 次
+2023-11-06 22:23:35 INFO : 下拉第 20 次
+2023-11-06 22:23:38 INFO : 下拉第 21 次
+2023-11-06 22:23:39 INFO : 下拉达到第 21 次
+2023-11-06 22:24:01 INFO : 完成 query = '缅甸' 的搜索
+2023-11-06 22:24:08 INFO : 下拉第 1 次
+2023-11-06 22:24:12 INFO : 下拉第 2 次
+2023-11-06 22:24:16 INFO : 下拉第 3 次
+2023-11-06 22:24:19 INFO : 下拉第 4 次
+2023-11-06 22:24:22 INFO : 下拉第 5 次
+2023-11-06 22:24:26 INFO : 下拉第 6 次
+2023-11-06 22:24:29 INFO : 下拉第 7 次
+2023-11-06 22:24:33 INFO : 下拉第 8 次
+2023-11-06 22:24:36 INFO : 下拉第 9 次
+2023-11-06 22:24:39 INFO : 下拉第 10 次
+2023-11-06 22:24:42 INFO : 下拉第 11 次
+2023-11-06 22:24:46 INFO : 下拉第 12 次
+2023-11-06 22:24:49 INFO : 下拉第 13 次
+2023-11-06 22:24:53 INFO : 下拉第 14 次
+2023-11-06 22:24:57 INFO : 下拉第 15 次
+2023-11-06 22:24:59 INFO : 下拉第 16 次
+2023-11-06 22:25:03 INFO : 下拉第 17 次
+2023-11-06 22:25:06 INFO : 下拉第 18 次
+2023-11-06 22:25:08 INFO : 下拉第 19 次
+2023-11-06 22:25:10 INFO : 下拉第 20 次
+2023-11-06 22:25:12 INFO : 下拉第 21 次
+2023-11-06 22:25:12 INFO : 下拉达到第 21 次
+2023-11-06 23:53:43 INFO : connection closed

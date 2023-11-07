@@ -1,0 +1,250 @@
+[
+    {
+        "question": "想学习大语言模型(LLM)，应该从哪个开源模型开始？",
+        "url": "https://www.zhihu.com/question/608820310"
+    },
+    {
+        "question": "如何入门 GPT 并快速跟上当前的大语言模型 LLM 进展？",
+        "url": "https://www.zhihu.com/question/599713780"
+    },
+    {
+        "question": "11 家 AI 大模型产品今日起陆续上线，腾讯华为等也将开放，哪些信息值得关注？",
+        "url": "https://www.zhihu.com/question/619968639"
+    },
+    {
+        "question": "如何基于深度学习大模型开展小模型的研发，如何把大模型和小模型相结合？",
+        "url": "https://www.zhihu.com/question/594938636"
+    },
+    {
+        "question": "百度文心大模型已升级至 3.5 版本，推理速度提升 30 倍，如何看待这一进展？它能解决哪些问题？",
+        "url": "https://www.zhihu.com/question/610719484"
+    },
+    {
+        "question": "2024年，AI的机会在行业大模型吗？",
+        "url": "https://www.zhihu.com/question/626482477"
+    },
+    {
+        "question": "大模型LLM领域，有哪些可以作为学术研究方向？",
+        "url": "https://www.zhihu.com/question/595298808"
+    },
+    {
+        "question": "国内AI大模型已近80个，哪个最有前途？",
+        "url": "https://www.zhihu.com/question/608763410"
+    },
+    {
+        "question": "李开复带队零一万物发布开源大模型 Yi，如何解读？",
+        "url": "https://www.zhihu.com/question/629230332"
+    },
+    {
+        "question": "如何评价天工大模型技术报告中指出国内大模型用领域内数据刷榜的现象？",
+        "url": "https://www.zhihu.com/question/628957425"
+    },
+    {
+        "question": "李开复 AI 公司首发大模型 Yi，中文大模型榜单排名第 1 位，如何看待目前国内大模型竞争格局？",
+        "url": "https://www.zhihu.com/question/629246403"
+    },
+    {
+        "question": "为什么chatGPT一出，国内各种大模型就都做出来了？",
+        "url": "https://www.zhihu.com/question/597835994"
+    },
+    {
+        "question": "华为的盘古大模型与CHATGPT相比真的很落后吗？",
+        "url": "https://www.zhihu.com/question/613520640"
+    },
+    {
+        "question": "ChatGPT爆发已经大半年了，为什么国内AI大模型感觉还是差了些？甚至能力难赶上GPT-3.5?",
+        "url": "https://www.zhihu.com/question/614223433"
+    },
+    {
+        "question": "为什么感觉GPT和大模型很简单，火了之后国内各种公司都能马上弄出来?",
+        "url": "https://www.zhihu.com/question/599567317"
+    },
+    {
+        "question": "国内AI大模型已近80个，哪个最有前途？",
+        "url": "https://www.zhihu.com/question/608763410"
+    },
+    {
+        "question": "前两个月国产类ChatGPT大模型如雨后春笋，为何最近都没声音了?",
+        "url": "https://www.zhihu.com/question/604592470"
+    },
+    {
+        "question": "如何看待国产大模型的现状？",
+        "url": "https://www.zhihu.com/question/605498415"
+    },
+    {
+        "question": "如何评价11月1日发布的 OriginOS 4，自研大模型为OriginOS 带来哪些改变？体验如何？",
+        "url": "https://www.zhihu.com/question/628649917"
+    },
+    {
+        "question": "跟大模型对话时 prompt 越礼貌越容易出好结果吗？为什么？",
+        "url": "https://www.zhihu.com/question/627891044"
+    },
+    {
+        "question": "2024年，AI的机会在行业大模型吗？",
+        "url": "https://www.zhihu.com/question/626482477"
+    },
+    {
+        "question": "上半年大模型遍地开花，大模型发展中有哪些经验和教训？",
+        "url": "https://www.zhihu.com/question/601594836"
+    },
+    {
+        "question": "如何看待视觉多模态大模型的爆炸式的发展？",
+        "url": "https://www.zhihu.com/question/625676762"
+    },
+    {
+        "question": "目前国内大模型什么水平？距离gpt差多少?",
+        "url": "https://www.zhihu.com/question/628793771"
+    },
+    {
+        "question": "马斯克 xAI 平台发布的 Grōk AI 大模型有哪些值得关注的特性？",
+        "url": "https://www.zhihu.com/question/629138534"
+    },
+    {
+        "question": "想学习大语言模型(LLM)，应该从哪个开源模型开始？",
+        "url": "https://www.zhihu.com/question/608820310"
+    },
+    {
+        "question": "李彦宏称「文心大模型 4.0 综合水平与 GPT-4 相比毫不逊色」，对此你怎么看？",
+        "url": "https://www.zhihu.com/question/626469905"
+    },
+    {
+        "question": "你认为当下中小微企业该不该跟风「大模型热潮」？",
+        "url": "https://www.zhihu.com/question/617382458"
+    },
+    {
+        "question": "媒体报道「中国大模型公司一半跑在阿里云上」，这是否体现了云计算在大模型竞争中的重要性？",
+        "url": "https://www.zhihu.com/question/628223225"
+    },
+    {
+        "question": "国内AI大模型，你看好谁?",
+        "url": "https://www.zhihu.com/question/612693958"
+    },
+    {
+        "question": "什么是大模型？超大模型和 Foundation Model 呢？",
+        "url": "https://www.zhihu.com/question/498275802"
+    },
+    {
+        "question": "大模型LLM领域，有哪些可以作为学术研究方向？",
+        "url": "https://www.zhihu.com/question/595298808"
+    },
+    {
+        "question": "如何基于深度学习大模型开展小模型的研发，如何把大模型和小模型相结合？",
+        "url": "https://www.zhihu.com/question/594938636"
+    },
+    {
+        "question": "人和大模型的最大差距是什么？",
+        "url": "https://www.zhihu.com/question/612407081"
+    },
+    {
+        "question": "国产 AI 大模型扎根涌现的两个月，给我们带来了什么？我们该如何判断这些大模型的水平？",
+        "url": "https://www.zhihu.com/question/597628700"
+    },
+    {
+        "question": "国内大模型争霸赛，你最看好哪家？为什么？",
+        "url": "https://www.zhihu.com/question/598051793"
+    },
+    {
+        "question": "为什么美国没有诞生盘古大模型？",
+        "url": "https://www.zhihu.com/question/610961410"
+    },
+    {
+        "question": "目前业界大模型推理框架很多，各有什么优缺点，应该如何选择？",
+        "url": "https://www.zhihu.com/question/625415776"
+    },
+    {
+        "question": "做大模型相关研究各方向的成本分别有多大?",
+        "url": "https://www.zhihu.com/question/628773999"
+    },
+    {
+        "question": "如何入门 GPT 并快速跟上当前的大语言模型 LLM 进展？",
+        "url": "https://www.zhihu.com/question/599713780"
+    },
+    {
+        "question": "现在市场上有哪些大模型？什么样的大模型适合国内企业？",
+        "url": "https://www.zhihu.com/question/599991855"
+    },
+    {
+        "question": "如何看待国内部分机构将“大模型”混淆为“通用人工智能“？",
+        "url": "https://www.zhihu.com/question/606311816"
+    },
+    {
+        "question": "为何 CV 里没有出现类似 NLP 大模型的涌现现象？",
+        "url": "https://www.zhihu.com/question/597657073"
+    },
+    {
+        "question": "大模型会不会成为压死苹果小内存的那个稻草？",
+        "url": "https://www.zhihu.com/question/617919500"
+    },
+    {
+        "question": "为什么只有基于Transformer的大模型，而没有其他的？",
+        "url": "https://www.zhihu.com/question/589738603"
+    },
+    {
+        "question": "小米宣布在手机跑通 13 亿参数大模型，这意味着什么？如何理解其技术水平？",
+        "url": "https://www.zhihu.com/question/617307517"
+    },
+    {
+        "question": "大模型能应用在自动驾驶上吗？是否可以让自动驾驶真的走向无人？",
+        "url": "https://www.zhihu.com/question/625473884"
+    },
+    {
+        "question": "大模型一般在什么领域中?",
+        "url": "https://www.zhihu.com/question/627595141"
+    },
+    {
+        "question": "大模型涌现能力是海市蜃楼吗（针对4.28 arxiv paper的讨论）？",
+        "url": "https://www.zhihu.com/question/598673162"
+    },
+    {
+        "question": "大语言模型中的涌现现象是不是伪科学？",
+        "url": "https://www.zhihu.com/question/587177332"
+    },
+    {
+        "question": "如何看待 OpenAI CEO 称「大语言模型规模已接近极限，并非越大越好」？",
+        "url": "https://www.zhihu.com/question/596077807"
+    },
+    {
+        "question": "为什么国内预训练大模型不如OpenAI的？",
+        "url": "https://www.zhihu.com/question/591948524"
+    },
+    {
+        "question": "如何解释大模型的重复生成现象？",
+        "url": "https://www.zhihu.com/question/616130636"
+    },
+    {
+        "question": "阅文妙笔大模型到底是个什么东西，如何评价网文大模型？",
+        "url": "https://www.zhihu.com/question/612859837"
+    },
+    {
+        "question": "大模型时代下数据挖掘/数据的机器学习还有场景吗？",
+        "url": "https://www.zhihu.com/question/626973727"
+    },
+    {
+        "question": "腾讯发布混元大模型，参数超千亿，如何评价其技术能力？",
+        "url": "https://www.zhihu.com/question/620896853"
+    },
+    {
+        "question": "InternLM-123B 12项性能位居第一，中国最接近 GPT-4 的大模型来了？有哪些影响？",
+        "url": "https://www.zhihu.com/question/620016543"
+    },
+    {
+        "question": "低算力大模型（例如 LoRA )的学习路线是什么？",
+        "url": "https://www.zhihu.com/question/593383416"
+    },
+    {
+        "question": "深度学习中，模型大了好还是小了好呢？",
+        "url": "https://www.zhihu.com/question/434846017"
+    },
+    {
+        "question": "大模型检索增强生成（RAG）有哪些好用的技巧？",
+        "url": "https://www.zhihu.com/question/625481187"
+    },
+    {
+        "question": "多模态大模型的时代真的来了吗？",
+        "url": "https://www.zhihu.com/question/614080027"
+    },
+    {
+        "question": "想做大模型训练，有什么配置推荐？",
+        "url": "https://www.zhihu.com/question/620904339"
+    }
+]
